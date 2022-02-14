@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206219221982",
+    "project_id": "my-videocalling-app-8b334",
+    "storage_bucket": "my-videocalling-app-8b334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206219221982:android:bd4aaa102c496d3b6e9b4f",
+        "android_client_info": {
+          "package_name": "com.mahesh.roommetting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206219221982-r78rpbqq7gjnbmpm2rqqu6b2hgvf0pn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE5ACDn7i3qA9gwp0a0W6V8wftc1Rjs3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206219221982-r78rpbqq7gjnbmpm2rqqu6b2hgvf0pn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
